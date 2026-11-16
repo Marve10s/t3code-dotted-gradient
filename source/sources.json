@@ -1,0 +1,69 @@
+[
+  {
+    "slug": "dither",
+    "original": true
+  },
+  {
+    "slug": "streaks",
+    "photographer": "Rana Mia",
+    "page": "https://unsplash.com/photos/abstract-streaks-of-blue-red-and-yellow-light-Rz2qamn3cVE",
+    "gamma": 1.5,
+    "accent": "#5cc8e6"
+  },
+  {
+    "slug": "horizon",
+    "photographer": "Asif Aether",
+    "page": "https://unsplash.com/photos/a-gradient-of-blue-white-and-orange-4KRfJsZIra0",
+    "gamma": 2.8,
+    "accent": "#ff8a4c"
+  },
+  {
+    "slug": "flutes",
+    "photographer": "Erkan Aktaş",
+    "page": "https://unsplash.com/photos/abstract-orange-and-grey-gradient-with-vertical-lines-2wHLQHP_j7c",
+    "gamma": 2.0,
+    "accent": "#ffa24a"
+  },
+  {
+    "slug": "arcs",
+    "photographer": "Julian Rösner",
+    "page": "https://unsplash.com/photos/abstract-flowing-lines-of-orange-and-yellow-light-uDrWDhyOhow",
+    "gamma": 2.6,
+    "accent": "#ffb02e"
+  },
+  {
+    "slug": "ember",
+    "photographer": "asi mong",
+    "page": "https://unsplash.com/photos/abstract-warm-orange-and-black-gradient-4yRLPPy5Qss",
+    "gamma": 2.2,
+    "accent": "#ff7a3d"
+  },
+  {
+    "slug": "dusk",
+    "photographer": "Codioful (Formerly Gradienta)",
+    "page": "https://unsplash.com/photos/red-and-blue-light-digital-wallpaper-yXs4rWNK-mg",
+    "gamma": 1.6,
+    "accent": "#ff7d8a"
+  },
+  {
+    "slug": "neon",
+    "photographer": "Gradient Wallpapers",
+    "page": "https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-background-PFKx7Srejek",
+    "gamma": 2.0,
+    "accent": "#3fd4d4"
+  },
+  {
+    "slug": "gold",
+    "photographer": "Liana S",
+    "page": "https://unsplash.com/photos/golden-light-streaks-across-dark-background-f-PBlsSXjAs",
+    "gamma": 1.2,
+    "accent": "#f2c14e"
+  },
+  {
+    "slug": "glint",
+    "photographer": "Liana S",
+    "page": "https://unsplash.com/photos/golden-light-flares-on-a-dark-background-58SMyKAKmmg",
+    "gamma": 1.2,
+    "accent": "#e8c27a"
+  }
+]
